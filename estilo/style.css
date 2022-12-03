@@ -164,13 +164,13 @@ aside > p {
 
 aside > ul {
     
-    columns: 2;    
-    padding:10px;
-    word-spacing: 0px;  
+    columns: 2; column-gap: 34px;    
+    padding:10px; 
+   
     
 
-    list-style-type: '\2714'; /* esse 2714 é o código do sinal de correto, e o 00A0 é um espaço depois do simbolo, pode repetir pra dar outro espaço. mas nao é compatível com todo navegador*/
 }
+
 
 
     
