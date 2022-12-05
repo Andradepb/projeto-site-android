@@ -1,2 +1,2 @@
 # projeto-site-android
-projeto de treino para site da historia do android
+projeto de treino para site da história do android
